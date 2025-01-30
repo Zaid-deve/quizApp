@@ -51,7 +51,7 @@ The user interface is designed for ease of use, ensuring that users can navigate
 - Once all the questions have been answered, the user is redirected to the results page, where their score is shown along with the number of mistakes. Emojis and summary details are displayed to provide a gamified experience.
 
   **Screenshot:**
-  ![Results Page](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/quiz.png)
+  ![Results Page](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/result.png)
 
 ### 5. **Error Page**
 
