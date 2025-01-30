@@ -1,4 +1,3 @@
-
 # Quiz Application with Gamification
 
 ## Table of Contents
@@ -64,7 +63,7 @@ The user interface is designed for ease of use, ensuring that users can navigate
 
 - Watch the demo video to see the application in action:
   
-  [Watch the Demo Video](https://github.com/Zaid-deve/quizApp/src/preview/quizApp-working.mp4)
+  [Watch the Demo Video](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/quizApp-working.mp4)
 
 
 ## 2. Technologies Used
