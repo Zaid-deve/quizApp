@@ -35,7 +35,7 @@ The user interface is designed for ease of use, ensuring that users can navigate
 - When the user first visits the quiz page, they will see a welcome screen and a list of available questions. The progress bar displays how many questions are left.
   
   **Screenshot:**
-  ![Home Page](https://github.com/Zaid-deve/quizApp/public/preview/home.png)
+  ![Home Page](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/home.png)
 
 ### 2. **Answering Questions**
 
@@ -43,7 +43,7 @@ The user interface is designed for ease of use, ensuring that users can navigate
 - If the user has not selected an option, an error message will prompt them to select one.
   
   **Screenshot:**
-  ![Question Page](https://github.com/Zaid-deve/quizApp/public/preview/quiz.png)
+  ![Question Page](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/quiz.png)
 
 
 ### 3. **Results Page**
@@ -51,14 +51,14 @@ The user interface is designed for ease of use, ensuring that users can navigate
 - Once all the questions have been answered, the user is redirected to the results page, where their score is shown along with the number of mistakes. Emojis and summary details are displayed to provide a gamified experience.
 
   **Screenshot:**
-  ![Results Page](https://github.com/Zaid-deve/quizApp/public/preview/quiz.png)
+  ![Results Page](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/quiz.png)
 
 ### 5. **Error Page**
 
 - If there is an issue (like no internet connection or API failure), an error page is shown to the user with a "Try Again" button. It also includes a Wi-Fi icon to indicate the issue.
   
   **Screenshot:**
-  ![Error Page](https://github.com/Zaid-deve/quizApp/public/preview/error.png)
+  ![Error Page](https://github.com/Zaid-deve/quizApp/blob/master/public/preview/error.png)
 
 ### 6. **Demo Video**
 
