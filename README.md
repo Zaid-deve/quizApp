@@ -116,11 +116,9 @@ Make sure you have the following installed:
 3. **Run the development server**:
     To start the application locally:
     ```bash
-    npm start
+    npm run dev
     ```
     This will start the React development server and open the application in your default browser.
-
-4. **Backend Setup** (if applicable):
     If you're also using a backend server, navigate to the backend directory and follow these steps:
     ```bash
     cd backend
